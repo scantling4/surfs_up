@@ -13,6 +13,7 @@ The purpose of this analysis was to look at temperature trends during the months
 -	There are about 150 more data points for the temperatures collected in June which is shown in the “count” row. 
 -	The mean temperatures, however, do not vary by very much. In June the mean temperature is 74.94 degree, while in December the mean temperature is 71.04. 
 -	The standard deviations of temperatures for both months are relatively similar. For June, it is 3.257 while for December it is 3.746.
+
 ![June Temperature Summary](/june_temp_summary.png)
 ![December Temperature Summary](/december_temp_summary.png)
 
