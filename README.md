@@ -22,5 +22,5 @@ The results for this analysis are quite informative. As shown in the summary sta
 
 - Performing these two additional queries will gather the precipitation data from Oahu for the months of June and December. This will allow for a more informative analysis and thus influence the decision to open a surf shop or not. 
 
-june_precipitation = session.query(Measurement.prcp).filter(extract('month', Measurement.date) == 6).all()
-december_precipitation = session.query(Measurement.prcp).filter(extract('month', Measurement.date) == 12).all()
+- june_precipitation = session.query(Measurement.prcp).filter(extract('month', Measurement.date) == 6).all()
+- december_precipitation = session.query(Measurement.prcp).filter(extract('month', Measurement.date) == 12).all()
